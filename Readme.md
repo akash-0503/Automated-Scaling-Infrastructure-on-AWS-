@@ -2,7 +2,7 @@
 
 ## 🧠 Objective
 
-This project demonstrates how to build an **automated, scalable, and fault-tolerant infrastructure on AWS**. The goal is to ensure that compute resources scale **dynamically** based on incoming traffic or usage patterns, optimizing for **cost** and **performance**.
+This project focused on designing and deploying an automated scaling infrastructure using Amazon Web Services (AWS). The primary objective was to set up an environment that dynamically scales based on the workload, ensuring high availability and cost efficiency. The process involved several key AWS services, including EC2, AMI, Launch Template, Auto Scaling Group (ASG), Load Balancer (ALB), and Target Group, along with proper. security configurations to ensure safe and optimized operations
 
 ---
 
